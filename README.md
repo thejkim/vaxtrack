@@ -9,10 +9,10 @@ Home (Patient)
 :-------------------------:|:-------------------------:
 Adding a new vaccine record     |  Vaccine record list
 
-![i1](screen-captures/find-provider.PNG)
+![i1](screen-captures/find-provider.png)
 :-------------------------:
 Home (Patient)
 
-![i1](screen-captures/appointment.PNG)
+![i1](screen-captures/appointment.png)
 :-------------------------:
 Home (Patient)
