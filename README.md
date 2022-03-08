@@ -8,3 +8,11 @@ Home (Patient)
 ![i1](screen-captures/add-new-vaccine-record.png)  |  ![i2](screen-captures/vaccine-record-list.png)  
 :-------------------------:|:-------------------------:
 Adding a new vaccine record     |  Vaccine record list
+
+![i1](screen-captures/find-provider.PNG)
+:-------------------------:
+Home (Patient)
+
+![i1](screen-captures/appointment.PNG)
+:-------------------------:
+Home (Patient)
