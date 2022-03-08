@@ -5,10 +5,6 @@ An iOS application allowing doctors and patients to keep track of their vaccinat
 :-------------------------:
 Home (Patient)
 
-<img src="screen-captures/home.PNG" width="250">
-:-------------------------:
-Home (Patient)
-
 ![i1](screen-captures/add-new-vaccine-record.png)  |  ![i2](screen-captures/vaccine-record-list.png)  
 :-------------------------:|:-------------------------:
 Adding a new vaccine record     |  Vaccine record list
